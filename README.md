@@ -13,5 +13,5 @@ A C++ based ssupermarket billing ssystem developed as a class 12 Computer Scienc
 - Arrays
 - Object-Oriented Prograamming(OOP)
 
-  #Author
+  # Author
   Dhanraj Deb
