@@ -1,5 +1,5 @@
 # Billing System Interface
-A C++ based ssupermarket billing ssystem developed as a class 12 Computer Science project
+A C++ based ssupermarket billing ssystem developed as a class 12 Computer Science project.
 
 # Features
 - Add product,
